@@ -29,7 +29,7 @@ YT_API_KEY = getenv("YT_API_KEY" , None )
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/isha_updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xxpR_3jfLFhkYjNl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+mr41Uo_5COViNGM1")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
