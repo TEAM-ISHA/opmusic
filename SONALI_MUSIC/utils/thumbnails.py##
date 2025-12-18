@@ -123,7 +123,7 @@ async def get_thumb(videoid: str) -> str:
         black_ic = Image.merge("RGBA", (r.point(lambda *_: 0), g.point(lambda *_: 0), b.point(lambda *_: 0), a))
         bg.paste(black_ic, (ICONS_X, ICONS_Y), black_ic)
 
-    # Add "KITTU BOTS" top-right (default font)
+    # Add "ISHA BOTS" top-right (default font)
     font = ImageFont.truetype("SONALI_MUSIC/assets/font.ttf", 28)  # 
     text = "TOXIC BOTS"
     text_size = draw.textsize(text, font=font)
