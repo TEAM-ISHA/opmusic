@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
     HELP_03 = '''```
@@ -50,14 +50,14 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @ytcmusic_bot @lll_TOXICC_PAPA_lll I love You 😘
+ єxᴧϻᴘʟє : @ytxmusic_bot @lll_TOXICC_PAPA_lll I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll) **
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll) **
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -83,7 +83,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Toxic Baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll) **
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll) **
 '''
 
     HELP_06 = '''```
@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
 ❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ᴛᴏxɪᴄ + ᴋɪᴛᴛᴜ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -143,7 +143,7 @@ class Helper(object):
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -172,7 +172,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -285,7 +285,7 @@ class Helper(object):
 ❍ /unbanall ➠ ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs
 ❍ /unpinall ➠ ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -295,7 +295,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -307,7 +307,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -318,7 +318,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -333,7 +333,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -344,21 +344,21 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞𓆪](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞𓆪](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
     HELP_23 = '''```
 ❖ sᴧηɢ ϻᴧᴛᴧ ᴄσϻϻᴧηᴅ ❖```
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/KITTUU_UPDATES)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/KITTUU_UPDATES)**
 '''
 
     HELP_24 = '''```
 ❖ ᴛʀᴧηsʟᴧᴛєs ❖```
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -367,9 +367,9 @@ class Helper(object):
 **❍ /git ➠ ғɪηᴅ ʀєᴘᴏ ɢɪᴛ ᴜsєʀηᴧϻє
 ❍ /allrepo ➠ sєє ᴧʟʟ ʀєᴘᴏ ᴛʜʀσᴜɢʜ ɢɪᴛ ᴜsєʀηᴧϻє**
 
-`єxᴧϻᴘʟє : /git TOXICPAPA`
+`єxᴧϻᴘʟє : /git TEAM-ISHA`
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
 
 
@@ -380,7 +380,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,32 +397,32 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)
+❍ ᴄσηᴛᴧᴄᴛ - [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [˹˹ʀɪʏᴧ ꭙ ϻυѕɪᴄ˼](https://t.me/toxicxmusic_bot) : ᴧʟɪᴠє 
+╭⎋ [˹ʏᴛ ꭙ ϻυѕɪᴄ˼](https://t.me/ytxmusic_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [˹ᴋɪᴛᴛυ ꭙ ϻυѕɪᴄ˼](https://t.me/kittuxmusicc_bot) : ᴧʟɪᴠє 
+╭⎋ [˹ᴀᴀʀᴜ ꭙ ϻυѕɪᴄ˼](https://t.me/aaruxmusic_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [˹ᴅᴊ ꭙ ϻυѕɪᴄ˼](https://t.me/djxbeat_bot) : ᴧʟɪᴠє 
+╭⎋ [˹ɪsʜᴀ ꭙ ϻυѕɪᴄ˼](https://t.me/ishaamusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/kittuu_updates)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/Isha_bots/8)
 ─────────────────────────
-⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 ɴᴏᴠ 2025 
+⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 16 Dec 2025 
 ─────────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [˹ɪsʜᴀ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -437,10 +437,10 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ 𝐊ɪᴛᴛᴜ.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ᴋɪᴛᴛυ ᴜᴘᴅᴀᴛᴇ ˼ 💞](https://t.me/kittuu_updates)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ᴋɪᴛᴛυ sᴜᴘᴘᴏʀᴛ˼ 💞](https://t.me/+xxpR_3jfLFhkYjNl)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ɪsʜᴀ ᴜᴘᴅᴀᴛᴇ˼ 💞](https://t.me/isha_updates)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ɪsʜᴀ sᴜᴘᴘᴏʀᴛ˼ 💞](https://t.me/+mr41Uo_5COViNGM1)
 ❖ ʙᴏᴛ σᴡηєʀ ➥ [ᴛᴏxɪᴄ_ᴏᴘ 💕](https://t.me/lll_TOXICC_PAPA_lll)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://t.me/lll_TOXICC_PAPA_lll)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://files.catbox.moe/p197eq.mp4)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
    ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!!
